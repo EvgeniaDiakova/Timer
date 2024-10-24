@@ -1,0 +1,11 @@
+.counterHeading {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: center;
+}
+
+.counterDivider {
+  border: 1px solid rgba(187, 187, 187, 0.5);
+  margin: 0 10px;
+}

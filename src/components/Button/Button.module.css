@@ -1,0 +1,35 @@
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonColor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.timerBtn {
+  width: 160px;
+  height: 36px;
+  border: none;
+  border-radius: 8px;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 40px;
+}
+
+.timerBtnGreen {
+  background-color: rgba(0, 174, 28, 1);
+}
+.timerBtnBlue {
+  background-color: rgba(9, 154, 200, 1);
+}
+.timerBtnYellow {
+  background-color: rgba(239, 153, 25, 1);
+  margin-top: 15px;
+}
+img {
+  margin-right: 4px;
+}
